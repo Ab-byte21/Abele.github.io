@@ -1,5 +1,5 @@
 # Welcome to my portfolio
-# 👋 Hi, I'm Abel Welde
+#  Hi, I'm Abel Welde
 
 **Computer Science Student @ University of Washington Tacoma**  
 **Focus Areas:** Data Science • Artificial Intelligence • Business Analytics  
@@ -10,17 +10,17 @@ This repository contains my **personal portfolio**, built with **HTML + CSS** an
 
 ---
 
-## 🏠 Home / Introduction
+##  Home / Introduction
 
 My name is **Abel Geremew Welde**, and I’m a Computer Science major with a Business Analytics minor. I’m passionate about solving problems using **software, data, and creativity**. I enjoy building projects, learning modern technologies, and exploring how computing impacts real-world systems.
 
-- 📍 Based in Washington State  
-- 💡 Interests: Data Science, AI, Cybersecurity  
-- 🤝 Experience in tech tutoring, academic support, and teamwork  
+-  Based in Washington State  
+-  Interests: Data Science, AI, Cybersecurity  
+-  Experience in tech tutoring, academic support, and teamwork  
 
 ---
 
-## 🙋 About Me
+##  About Me
 
 I began my academic journey at **Highline College**, where I developed a strong foundation in:
 
@@ -45,11 +45,11 @@ In my free time, I enjoy:
 
 ---
 
-## 💻 Projects (Selected)
+##  Projects (Selected)
 
 These are some of the projects highlighted on my portfolio site. More details are in each project’s GitHub repository.
 
-### 🛒 Shopping Cart Backend (Java)
+###  Shopping Cart Backend (Java)
 
 Backend implementation for a bookstore-style shopping cart.
 
@@ -59,7 +59,7 @@ Backend implementation for a bookstore-style shopping cart.
 
 ---
 
-### ⏰ ClockShop Conundrums (Java Algorithms)
+###  ClockShop Conundrums (Java Algorithms)
 
 A series of algorithmic exercises focused on **loops**, step counting, and pseudocode.
 
@@ -69,7 +69,7 @@ A series of algorithmic exercises focused on **loops**, step counting, and pseud
 
 ---
 
-### 🌐 Personal Portfolio / Web Experiments
+###  Personal Portfolio / Web Experiments
 
 This website and future small front-end experiments.
 
@@ -78,11 +78,11 @@ This website and future small front-end experiments.
 - **Repo:** `https://github.com/Ab-byte21/Abele.github.io`  
 
 Live site:  
-👉 `https://Ab-byte21.github.io/Abele.github.io` (or your configured GitHub Pages URL)
+ `https://Ab-byte21.github.io/Abele.github.io` (or your configured GitHub Pages URL)
 
 ---
 
-### 🚗 LaneRush – Simple Java Car Game (CS 141)
+### LaneRush – Simple Java Car Game (CS 141)
 
 A simple **car-avoidance game** created for CS 141. The player moves left/right to avoid obstacles.
 
@@ -92,7 +92,7 @@ A simple **car-avoidance game** created for CS 141. The player moves left/right 
 
 ---
 
-### 🎨 FinalDrawing – Java Graphics Project (CS 141)
+###  FinalDrawing – Java Graphics Project (CS 141)
 
 A Java graphics project that draws a custom picture using shapes, loops, and coordinate geometry.
 
@@ -102,7 +102,7 @@ A Java graphics project that draws a custom picture using shapes, loops, and coo
 
 ---
 
-### 🚦 City Traffic Simulator – Inheritance & Polymorphism (CS 142)
+###  City Traffic Simulator – Inheritance & Polymorphism (CS 142)
 
 A city traffic simulation where different vehicles (cars, taxis, trucks, humans, bicycles, ATVs) move across a map with unique rules.
 
@@ -112,7 +112,7 @@ A city traffic simulation where different vehicles (cars, taxis, trucks, humans,
 
 ---
 
-### 🏨 Hotel Reservation Website
+###  Hotel Reservation Website
 
 A hotel reservation website that supports room browsing and booking.
 
@@ -122,7 +122,7 @@ A hotel reservation website that supports room browsing and booking.
 
 ---
 
-## 🧠 Skills
+##  Skills
 
 **Languages**
 
@@ -161,7 +161,7 @@ A hotel reservation website that supports room browsing and booking.
 
 ---
 
-## 🧩 Experience
+##  Experience
 
 ### Tech Tutor & Library Student Worker – Highline College
 
@@ -179,7 +179,7 @@ A hotel reservation website that supports room browsing and booking.
 
 ---
 
-## 🏅 Activities & Honors
+##  Activities & Honors
 
 - **Ethiopian Orthodox Church (Selassie & Michael)** – Choir member and volunteer  
 - **Phi Theta Kappa Honor Society** – Service and cultural exchange involvement  
@@ -194,17 +194,17 @@ A hotel reservation website that supports room browsing and booking.
 
 ---
 
-## 📄 Resume
+## Resume
 
 You can view or download my resume from the live site:
 
-👉 [Download my resume](./resume.pdf)
+ [Download my resume](./resume.pdf)
 
 > Make sure a file named `resume.pdf` is stored in the root of this repository so this link works.
 
 ---
 
-## 🚀 Running / Editing the Site
+##  Running / Editing the Site
 
 This portfolio is a simple static site:
 
@@ -220,7 +220,7 @@ To update:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **Email:** `your.email@example.com`  <!-- replace with your real email -->
 - **GitHub:** [github.com/Ab-byte21](https://github.com/Ab-byte21)  
