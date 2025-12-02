@@ -78,7 +78,7 @@ This website and future small front-end experiments.
 - **Repo:** `https://github.com/Ab-byte21/Abele.github.io`  
 
 Live site:  
- `https://Ab-byte21.github.io/Abele.github.io` (or your configured GitHub Pages URL)
+ `https://Ab-byte21.github.io/Abele.github.io` 
 
 ---
 
@@ -200,7 +200,7 @@ You can view or download my resume from the live site:
 
  [Download my resume](./resume.pdf)
 
-> Make sure a file named `resume.pdf` is stored in the root of this repository so this link works.
+.
 
 ---
 
@@ -224,7 +224,7 @@ To update:
 
 - **Email:** `your.email@example.com`  <!-- replace with your real email -->
 - **GitHub:** [github.com/Ab-byte21](https://github.com/Ab-byte21)  
-- **LinkedIn:** _Add your profile link here_  
+- **LinkedIn:**  
 
 Feel free to reach out about:
 
